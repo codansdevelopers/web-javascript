@@ -1,0 +1,7 @@
+{
+  "name": "@codans/trello",
+  "description": "Trello interface compose of login page.",
+  "version": "1.0.1",
+  "main": "js/stylesheet.js",
+  "type": "commonjs"
+}
