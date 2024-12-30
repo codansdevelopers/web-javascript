@@ -1,7 +1,7 @@
 {
   "name": "@codans/discord",
   "description": "Clone da página inicial do Discord.",
-  "version": "2.1.0",
+  "version": "2.10.0",
   "main": "js/stylesheet.js",
   "type": "commonjs"
 }
